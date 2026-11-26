@@ -9,14 +9,12 @@
 <p align="center"><a href="mailto:seigneur.noir15@gmail.com"><img src="./assets/links/email.svg" alt="seigneur.noir15@gmail.com" height="28"></a> <a href="https://www.instagram.com/asyncfnc"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://t.me/vermilion15"><img src="./assets/links/telegram.svg" alt="Telegram" height="28"></a> <a href="https://wa.me/6282123264817"><img src="./assets/links/whatsapp.svg" alt="WhatsApp" height="28"></a></p>
 
 ### Stack I Frequently Use
-[![My Skills](https://skillicons.dev/icons?i=supabase,prisma,react,ts,tailwind,postgresql,nextjs,nestjs&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,prisma,react,ts,tailwind,postgresql,nextjs,nestjs,postman,nodejs,vite,mysql&perline=6)](https://skillicons.dev)
 
 ### Skills
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-
+![image](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /> <img src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"
+/> <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 > **Current objective.** Building Restful API , Diving Into CyberSecurity
 
 #### Telemetry
