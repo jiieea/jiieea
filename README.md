@@ -9,9 +9,10 @@
 <p align="center"><a href="mailto:seigneur.noir15@gmail.com"><img src="./assets/links/email.svg" alt="seigneur.noir15@gmail.com" height="28"></a> <a href="https://www.instagram.com/asyncfnc"><img src="./assets/links/instagram.svg" alt="Instagram" height="28"></a> <a href="https://t.me/vermilion15"><img src="./assets/links/telegram.svg" alt="Telegram" height="28"></a> <a href="https://wa.me/6282123264817"><img src="./assets/links/whatsapp.svg" alt="WhatsApp" height="28"></a></p>
 
 ### Stack I Frequently Use
-[![My Skills](https://skillicons.dev/icons?i=supabase,prisma,react,ts,tailwind,postgresql&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=supabase,prisma,react,ts,tailwind,postgresql,nextjs,nestjs&perline=6)](https://skillicons.dev)
 
 ### Skills
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
